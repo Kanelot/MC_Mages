@@ -1,5 +1,5 @@
 # Mages
-MC Plugin fo my custom Mages minigame
+MC Plugin for my custom Mages minigame
 
 # Summary
 This is an old MineCraft Bukkit plugin I developed for playing a chess-like 4v4 minigame. One player from each team 'places' their teammates on the board and gives them certain roles, which they use to best their opponents.
@@ -7,8 +7,8 @@ This accompanies a custom map I made which is necessary for playing this game. T
 You can download a copy here: https://mega.nz/file/o181yS4L#IR7k9AulfDk52VO-fc_-5elOpyus9MNJkGtHOYzGIlTR9M
 
 # Rules
-Mages is a 4v4 multiplayer game. The game takes place on a giant game board (think chess) where each space on the board is a different color. The leader of the team picks places on the board to summon his players to. 
-The major tile types allow users on them to do the following things:
+Mages is a 4v4 multiplayer game. The game takes place on a giant game board (think chess) where each space on the board is a different color. The leader of the team picks places on the board to summon his/her players to. 
+The major tile types:
 Light Green: Spawns creepers
 Dark Green: Spawns zombies
 Light Blue: Spawns cave spiders
